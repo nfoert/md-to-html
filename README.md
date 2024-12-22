@@ -40,3 +40,8 @@ You can run the script using the `--dev` option, and the output will be saved to
 python main.py --dev
 ```
 
+# To-Do
+- [ ] Make script more user-friendly
+  - [ ] Colored output and print more info
+- [ ] Theme support
+
