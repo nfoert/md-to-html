@@ -1,0 +1,6 @@
+.venv
+__pycache__
+output
+index.html
+footer.html
+body.md
